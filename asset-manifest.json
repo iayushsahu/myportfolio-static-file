@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e05a3e03.chunk.css",
+    "main.js": "/static/js/main.3fce2947.chunk.js",
+    "main.js.map": "/static/js/main.3fce2947.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.488cdfc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.488cdfc5.js.map",
+    "static/js/2.db6e71d3.chunk.js": "/static/js/2.db6e71d3.chunk.js",
+    "static/js/2.db6e71d3.chunk.js.map": "/static/js/2.db6e71d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e05a3e03.chunk.css.map": "/static/css/main.e05a3e03.chunk.css.map",
+    "static/js/2.db6e71d3.chunk.js.LICENSE.txt": "/static/js/2.db6e71d3.chunk.js.LICENSE.txt",
+    "static/media/Ayush_Sahu_22_04_22.aacd42ec.pdf": "/static/media/Ayush_Sahu_22_04_22.aacd42ec.pdf",
+    "static/media/Ayush_img.2ece7fcc.jpg": "/static/media/Ayush_img.2ece7fcc.jpg",
+    "static/media/Covizine.14d4e2a4.gif": "/static/media/Covizine.14d4e2a4.gif",
+    "static/media/Portfolio.c2cffc38.gif": "/static/media/Portfolio.c2cffc38.gif",
+    "static/media/home.629bf777.svg": "/static/media/home.629bf777.svg",
+    "static/media/newPortfolio.0c5abdce.gif": "/static/media/newPortfolio.0c5abdce.gif",
+    "static/media/quickchat.f0dd98a7.gif": "/static/media/quickchat.f0dd98a7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488cdfc5.js",
+    "static/js/2.db6e71d3.chunk.js",
+    "static/css/main.e05a3e03.chunk.css",
+    "static/js/main.3fce2947.chunk.js"
+  ]
+}
